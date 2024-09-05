@@ -1,2 +1,2 @@
 # Computer-Vision
-Topics I learn about.
+Just some topics I learn about in the computer vision domain.
